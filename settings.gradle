@@ -1,0 +1,2 @@
+rootProject.name='ViewModelRotation'
+include ':app'
